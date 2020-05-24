@@ -12,6 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.10.0",
-    "handlebars": "^4.0.12"
+    "handlebars": "^4.3.0"
   }
 }
