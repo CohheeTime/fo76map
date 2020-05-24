@@ -1,0 +1,17 @@
+{
+  "name": "fallout-76-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assets/sass/style.scss",
+  "scripts": {
+    "css-build": "node-sass --omit-source-map-url assets/sass/style.scss assets/css/style.css --output-style compressed",
+    "css-watch": "npm run css-build -- --watch",
+    "start": "npm run css-watch"
+  },
+  "author": "CohheeTime",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.10.0",
+    "handlebars": "^4.0.12"
+  }
+}

@@ -1,0 +1,1 @@
+html,body{height:100%}body{background:#000;color:#fff;padding:0;margin:0}.content{height:100%;display:flex}.content .content-map{flex:2}.content .content-map.leaflet-container{background:#000}.content .content-data{flex:1;padding:1em;overflow-y:scroll}.entry figure{margin:0}.entry img{max-width:100%}
